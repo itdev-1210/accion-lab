@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "sourceMap": true,
+    "rootDir" : "src"
+  },
+  "include": ["src"]
+}
